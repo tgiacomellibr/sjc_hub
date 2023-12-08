@@ -1,4 +1,4 @@
-# SJC Hub Connections Board
+# SJC Network Hub
 
 - Power input filter
 - RS-485 Network Hub
