@@ -4,4 +4,4 @@
 - RS-485 Network Hub
 - Endstop connections
 
-![sjc_hub_view](https://github.com/tgiacomellibr/sjc_hub/assets/11637388/1d05217c-3a11-4283-b26f-63cf4d0564ed)
+![image](https://github.com/tgiacomellibr/sjc_hub/assets/11637388/559eb0f0-286e-4c17-8977-41f9e586aeb3)
